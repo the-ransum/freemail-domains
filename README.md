@@ -3,7 +3,7 @@ Compiled list of freemail provider domains.
 
 ## Data Handling
 
-- [View Raw](https://raw.githubusercontent.com/the-ransum/freemail-domains/main/domains.txt)
+- [View Raw](https://raw.githubusercontent.com/xransum/freemail-domains/main/domains.txt)
 
 **Javascript**
 
